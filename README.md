@@ -79,6 +79,7 @@ input data -> AE -> feature extraction -> output data
 ### 문제점 3. 문제점 1과 2로 인한 overfitting
 * 딥러닝의 경우 모델의 initialization을 어떻게 하느냐에 따라 도달하는 점이 다름
 > 여러 경우의 initailization을 활용
+
 > AE를 unsupervised learning의 pre-trained net의 weight를 initail weight로 활용
 
 
