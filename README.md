@@ -69,8 +69,11 @@ input data -> AE -> feature extraction -> output data
 
 ### 문제점 2. 시계열 feature 종류 대비 짧은 시계열 길이
 
-이는 데이터 자체가 없는 것이기 때문에 ....
-기존의 데이터를 해석/설계하는 방법을 도입
+* 기존의 feature를 잘 활용하자
+> 기존의 feature에 attention을 활용하여 weighting 주자
+
+* 새로운 데이터를 만들어 보자
+> GAN? 기존의 
 
 
 ### 문제점 3. 문제점 1과 2로 인한 overfitting
