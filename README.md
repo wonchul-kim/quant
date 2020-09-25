@@ -82,4 +82,5 @@ input data -> AE -> feature extraction -> output data
 
 > AE를 unsupervised learning의 pre-trained net의 weight를 initail weight로 활용
 
+> Bayesian Inference를 활용하여 관찰되지 못한 부분에 대해서 uncertainty를 추정
 
