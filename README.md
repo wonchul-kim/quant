@@ -82,12 +82,12 @@ input data -> AE -> feature extraction -> output data
 
 > AE를 unsupervised learning의 pre-trained net의 weight를 initail weight로 활용
 
-> Bayesian Inference를 활용하여 관찰되지 못한 부분에 대해서 uncertainty를 추정
+* Bayesian Inference를 활용하여 관찰되지 못한 부분에 대해서 uncertainty를 추정
 
->> Monte Carlo Dropout, Gal, Y., 2016
+> Monte Carlo Dropout, Gal, Y., 2016
 
->> Monte Carlo Batch Normalization, Teye, M., 2018
+> Monte Carlo Batch Normalization, Teye, M., 2018
 
->> Deep learning Regression + Gaussian Process Regression 
->>> 마지막 단의 노드들을 이용하여 GPR을 활용하여 uncertainty를 추정 
+> Deep learning Regression + Gaussian Process Regression 
+>> 마지막 단의 노드들을 이용하여 GPR을 활용하여 uncertainty를 추정 
 
