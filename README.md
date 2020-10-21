@@ -1,5 +1,10 @@
 # quant
 
+
+https://github.com/firmai/financial-machine-learning
+
+
+
 > James Simons는 한때 세계 최고의 연봉(약 1조 8척억원!!!)을 받는 헤지 펀드 매니저이다. 원래는 수학교수로서 수학과 물리학에 매우 저명하며, 수학의 공식을 활용하여 주식시장에 투자를 하였다.
 
 #### quant = quantitative + analyst
