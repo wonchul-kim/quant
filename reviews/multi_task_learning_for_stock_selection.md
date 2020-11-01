@@ -1,0 +1,1 @@
+Multi-label, Multi-class and Multi-Task learning 에 대하여 생각해보고 있습니다. 제 생각에 서로 mutually exclusive 결과물은 multi-class (softmax + categorical crossentropy), 동시에 일어날 수 있는 일은 Multi-label (마지막 노드 각각 sigmoid 사용 + binary cross entropy), Multi-Task 는 (하나는 mse, 하나는 sigmoid 하나는 max  등을 섞어쓸 때) 로 이해하고 있는데요. 
