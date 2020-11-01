@@ -54,3 +54,7 @@ input data -> AE -> feature extraction -> output data
 > Deep learning Regression + Gaussian Process Regression 
 >> 마지막 단의 노드들을 이용하여 GPR을 활용하여 uncertainty를 추정 
 
+$ \begin{bmatrix}
+a & b \\\\ 
+c & d
+\end{bmatrix}$
